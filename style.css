@@ -28,8 +28,8 @@ body{
 
 #readNews{
     position: absolute;
-    width: 990px;
-    height: 821px;
+    width: 90%;
+    height: 100%;
     left: 717px;
     /* top: 0px; */
     background-image: url(assets/read_news.jpg);
